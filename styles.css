@@ -1,3 +1,4 @@
+
 #letter{
     font-family: Arial, sans-serif;
     font-size: 90px;
@@ -29,11 +30,4 @@
     outline: none;
     box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
   }
-  .searchBar{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .in{
-      margin-left: 150px;
-  }
+  
